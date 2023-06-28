@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Adapt IT\GitHub\ClientSolution\obj\Debug\net7.0\ClientSolution.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Adapt IT\GitHub\ClientSolution\obj\Debug\net7.0\ClientSolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Adapt IT\GitHub\ClientSolution\obj\Debug\net7.0\ClientSolution.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Adapt IT\GitHub\ClientSolution\obj\Debug\net7.0\ClientSolution.AssemblyInfo.cs
+C:\Users\User\Desktop\Adapt IT\GitHub\ClientSolution\obj\Debug\net7.0\ClientSolution.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Adapt IT\ClientSolution\obj\Debug\net7.0\ClientSolution.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Adapt IT\ClientSolution\obj\Debug\net7.0\ClientSolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Adapt IT\ClientSolution\obj\Debug\net7.0\ClientSolution.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Adapt IT\ClientSolution\obj\Debug\net7.0\ClientSolution.AssemblyInfo.cs
+C:\Users\User\Desktop\Adapt IT\ClientSolution\obj\Debug\net7.0\ClientSolution.csproj.CoreCompileInputs.cache
