@@ -6,5 +6,6 @@ displaying analytics.
 The solution use Microsoft SQL Server. Replace the data source with your own. Run the Clients.sql to generate the client table with data.
 
 # Usage
+* access https://github.com/Tumelo-Mokhwathi/ClientSolution/ClientSolution to open the solution.
 * dotnet build - Builds a project and all of its dependencies.
 * dotnet run - Runs the application.
