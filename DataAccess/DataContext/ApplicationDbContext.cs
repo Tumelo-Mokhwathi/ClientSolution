@@ -12,9 +12,6 @@ namespace DataAccess.DataContext
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            //optionsBuilder.UseSqlServer("Data Source=LAPTOP-LI621PO8\\SQLEXPRESS;Initial Catalog=ClientDB;Integrated Security=True");
         }
-
-
     }
 }
